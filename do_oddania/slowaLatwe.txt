@@ -1,0 +1,10 @@
+hello
+world
+friend
+happy
+yes
+ghost
+no
+cat
+car
+mum
